@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nsangou Tatsinkou Tony Adam's</h1>
 <h3 align="center">a dedicated Computer Science student at HTW Saar 🎓.</h3>
 
-<p align="center">
-  <a href="https://www.psg.fr/">
-    <img src="https://img.icons8.com/color/96/000000/paris-saint-germain.png" alt="PSG" width="60"/>
-  </a>
-</p>
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=tonyxsony&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=tonyxsony&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)]]
 - 🔭a dedicated Computer Science student at HTW Saar 🎓. **familie calender**
 
 - 🌱 I’m currently learning **Javascript ,Node js ,Express js**
