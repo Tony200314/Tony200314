@@ -2,10 +2,9 @@
 <h3 align="center">a dedicated Computer Science student at HTW Saar 🎓.</h3>
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=tony200314&show_icons=true&theme=radical&hide_border=true" alt="Tony's GitHub Stats" width="450"/>
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=5wLo1il0VpKolvkst0wctL&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=5wLo1il0VpKolvkst0wctL&cover_image=true&theme=novatorem" alt="Now Playing"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony200314&layout=compact&theme=radical&hide_border=true" width="300"/>
 </p>
 
 - 🔭a dedicated Computer Science student at HTW Saar 🎓. **familie calender**
