@@ -2,8 +2,8 @@
 <h3 align="center">a dedicated Computer Science student at HTW Saar 🎓.</h3>
 
 <p align="left">
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=5wLo1il0VpKolvkst0wctL&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=5wLo1il0VpKolvkst0wctL&cover_image=true&theme=novatorem" alt="Now Playing"/>
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=tonyxsony&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=tonyxsony&cover_image=true&theme=novatorem" alt="Now Playing"/>
   </a>
 </p>
 
