@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nsangou Tatsinkou Tony Adam's</h1>
 <h3 align="center">a dedicated Computer Science student at HTW Saar 🎓.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tony200314" alt="tony200314" /></a> </p>
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=tony200314&show_icons=true&theme=radical&hide_border=true" alt="Tony's GitHub Stats" width="450"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony200314&layout=compact&theme=radical&hide_border=true" width="300"/>
+</p>
 
 - 🔭a dedicated Computer Science student at HTW Saar 🎓. **familie calender**
 
