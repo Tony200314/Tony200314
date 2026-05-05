@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **A project that lacks an element of fun can sometimes just complicate things. 😄**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: tonytatsinkou@gmail.com </h3>
 <p align="left">
 </p>
 
