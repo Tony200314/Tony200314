@@ -6,7 +6,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=tonyxsony&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Tony's Spotify" width="400"/>
   </a>
 </p>
-- 🔭a dedicated Computer Science student at HTW Saar 🎓. ** familie calender **
+- 🔭a dedicated Computer Science student at HTW Saar 🎓. 
 
 - 🌱 I’m currently working on an Android Project
 
