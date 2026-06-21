@@ -8,7 +8,7 @@
 </p>
 - 🔭a dedicated Computer Science student at HTW Saar 🎓. ** familie calender **
 
-- 🌱 I’m currently learning **Javascript ,Node js ,Express js**
+- 🌱 I’m currently working on an Android Project
 
 - 📫 How to reach me **tonytatsinkou@gmail.com**
 
